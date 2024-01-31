@@ -1,0 +1,10 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(«ßˆÛ8¾€÷âÓ1
+L	java:S106"+Replace this use of System.out by a logger.(¯Áıûÿÿÿÿ8Ë€÷âÓ1
+M
+java:S1611"0Remove the parentheses around the "id" parameter(Á€û8ëıâÓ1
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Á€û8íıâÓ1
+F	java:S106"+Replace this use of System.out by a logger.(‹¼â_8¦Û÷âÓ1
+G	java:S106"+Replace this use of System.out by a logger.(„ÇÔĞ8¯ñıâÓ1

@@ -1,0 +1,24 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ÒË©ôÿÿÿÿÿ8´ÑáÿÓ1
+L	java:S106
+"+Replace this use of System.out by a logger.(«žÌÉøÿÿÿÿ8¶ÑáÿÓ1
+W
+java:S3252"5Use static access with "com.guna.test.A" for "hello".(‹¸î³üÿÿÿÿ8¸ÑáÿÓ1
+W
+java:S2209"5Change this instance-reference to a static reference.(‹¸î³üÿÿÿÿ8¸ÑáÿÓ1
+G	java:S106"+Replace this use of System.out by a logger.(Ó¬þÁ8¸ÑáÿÓ1
+G	java:S106"+Replace this use of System.out by a logger.(Ñ¹¥ü8¾Ëï€Ô1
+R
+java:S2209"5Change this instance-reference to a static reference.(Ñ¹¥ü8¦†ñ€Ô1
+R
+java:S2209"5Change this instance-reference to a static reference.(ó–¥à8ÇÂñ€Ô1
+G	java:S106"+Replace this use of System.out by a logger.(Ñ¹¥ü8ðøñ€Ô1
+R
+java:S2209"5Change this instance-reference to a static reference.(Ñ¹¥ü8ðøñ€Ô1
+G	java:S106"+Replace this use of System.out by a logger.(Ñ¹¥ü8¡Âò€Ô1
+R
+java:S2209"5Change this instance-reference to a static reference.(Ñ¹¥ü8¡Âò€Ô1
+W
+java:S3252"5Use static access with "com.guna.test.A" for "hello".(‹¸î³üÿÿÿÿ8ùçó€Ô1
+W
+java:S2209"5Change this instance-reference to a static reference.(‹¸î³üÿÿÿÿ8ùçó€Ô1

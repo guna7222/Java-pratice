@@ -1,0 +1,10 @@
+
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(îøüÕ8Ô§åûÕ1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(éÁ¿ğ8á§åûÕ1
+c	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8ä§åûÕ1
+L	java:S106"+Replace this use of System.out by a logger.(Õ§îşÿÿÿÿ8ç§åûÕ1
+a
+java:S2147""DCombine this catch with the one at line 32, which has the same body.(ï­£Ä8î§åûÕ1
+L	java:S106"+Replace this use of System.out by a logger.(‹Ã¿êüÿÿÿÿ8ò§åûÕ1

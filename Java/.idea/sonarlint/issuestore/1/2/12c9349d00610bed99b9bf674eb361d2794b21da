@@ -1,0 +1,8 @@
+
+Q
+java:S1611"/Remove the parentheses around the "i" parameter(ΈΫΨΆώÿÿÿÿ8‡€¨Υ1
+I
+java:S1602",Remove useless curly braces around statement(Α¨Έ8‰€¨Υ1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Α¨Έ8‰€¨Υ1
+L	java:S106"+Replace this use of System.out by a logger.(µΟ…θωÿÿÿÿ8€¨Υ1

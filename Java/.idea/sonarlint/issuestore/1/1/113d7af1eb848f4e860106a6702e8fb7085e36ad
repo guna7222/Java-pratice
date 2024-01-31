@@ -1,0 +1,14 @@
+
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÿËğ¢8¨ÈœïÕ1
+F	java:S106"+Replace this use of System.out by a logger.(Š“8ªÈœïÕ1
+j
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Š“8ªÈœïÕ1
+G	java:S106"+Replace this use of System.out by a logger.(ßÕÒ›8ªÈœïÕ1
+X	java:S125"<This block of commented-out lines of code should be removed.(€Ê¾×8«ÈœïÕ1
+G	java:S106 "+Replace this use of System.out by a logger.(ßÕÒ›8ØœòïÕ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¦ÉòÁşÿÿÿÿ8«ÈœïÕ1
+T
+java:S1128"7Remove this unused import 'javax.imageio.IIOException'.(´ÂÏ’8«ÈœïÕ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8«ÈœïÕ1
