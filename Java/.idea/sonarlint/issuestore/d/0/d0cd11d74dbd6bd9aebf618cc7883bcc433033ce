@@ -1,0 +1,8 @@
+
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ªðü´øÿÿÿÿ8Ö‰¿–Ö1
+‡
+java:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(–œ¢Öýÿÿÿÿ8Ø‰¿–Ö1
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ü±ååùÿÿÿÿ8Ù‰¿–Ö1
+G	java:S106"+Replace this use of System.out by a logger.(¬½ðÅ8ê‰¿–Ö1

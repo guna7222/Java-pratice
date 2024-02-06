@@ -22,13 +22,20 @@ public class ReadingTextFileData {
 
     // Reading .txt file
     public void readingTextFile(ReadingTextFileData readingTextFileData) {
+        StringBuffer str = new StringBuffer();
         try {
             FileInputStream fileInputStream = new FileInputStream(readingTextFileData.creatingTextFile());
 
             int asciiValues;
             while ((asciiValues = fileInputStream.read()) != -1) {
                 System.out.print((char) asciiValues);
+                char convertion = (char) asciiValues;
+                str.append(convertion);
             }
+            System.out.println(":::::::: :::::::::");
+            System.out.println(str);
+
+            fileInputStream.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
